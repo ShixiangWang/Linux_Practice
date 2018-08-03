@@ -160,10 +160,10 @@
 
    14. 直接抓取`example.gtf.gz`第9列转录名，例如`ENST00000456328.2_1 `
 
-   15. 如何通过管道命令将以下内容传入为`example.bed`头两行？
+   15. 如何通过管道命令将以下内容传入为`gtf2bed.bed`头两行？
 
        ```
-       # example bed file
+       # bed file generated from gtf file
        # generate by <这里填入你的名字>
        ```
 
